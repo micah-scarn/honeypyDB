@@ -1,2 +1,2 @@
-# honeypyDB
-Mongo DB helper library
+# Honeypy
+Honeypy helper library
